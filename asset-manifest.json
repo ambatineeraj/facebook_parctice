@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/facebook_parctice.git/static/css/main.94dbc109.chunk.css",
+    "main.js": "/facebook_parctice.git/static/js/main.085a5bcc.chunk.js",
+    "main.js.map": "/facebook_parctice.git/static/js/main.085a5bcc.chunk.js.map",
+    "runtime-main.js": "/facebook_parctice.git/static/js/runtime-main.2c8d3835.js",
+    "runtime-main.js.map": "/facebook_parctice.git/static/js/runtime-main.2c8d3835.js.map",
+    "static/css/2.383c0125.chunk.css": "/facebook_parctice.git/static/css/2.383c0125.chunk.css",
+    "static/js/2.a32bb73d.chunk.js": "/facebook_parctice.git/static/js/2.a32bb73d.chunk.js",
+    "static/js/2.a32bb73d.chunk.js.map": "/facebook_parctice.git/static/js/2.a32bb73d.chunk.js.map",
+    "static/js/3.e63803be.chunk.js": "/facebook_parctice.git/static/js/3.e63803be.chunk.js",
+    "static/js/3.e63803be.chunk.js.map": "/facebook_parctice.git/static/js/3.e63803be.chunk.js.map",
+    "index.html": "/facebook_parctice.git/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/facebook_parctice.git/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.94dbc109.chunk.css.map": "/facebook_parctice.git/static/css/main.94dbc109.chunk.css.map",
+    "static/js/2.a32bb73d.chunk.js.LICENSE.txt": "/facebook_parctice.git/static/js/2.a32bb73d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/facebook_parctice.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c8d3835.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.a32bb73d.chunk.js",
+    "static/css/main.94dbc109.chunk.css",
+    "static/js/main.085a5bcc.chunk.js"
+  ]
+}
